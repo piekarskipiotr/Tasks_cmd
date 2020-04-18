@@ -1,5 +1,5 @@
 # Tasks_cmd
-Program running via cmd on windows os computers, allows you to adding, manage them(editing and deleting)
+Program running via cmd on windows os computers, allows you to adding, managing them(editing and deleting)
 
 Program has been written for practise a java on desktop.
 
