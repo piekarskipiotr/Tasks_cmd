@@ -1,2 +1,15 @@
 # Tasks_cmd
-Program running via cmd on windows os computers, to add tasks to do and manage them
+Program running via cmd on windows os computers, allows you to adding, manage them(editing and deleting)
+
+Program has been written for practise a java on desktop.
+
+-------------------------------------------------------------------------------------------------
+
+Libraries:
+
+• JANSI[https://github.com/fusesource/jansi]
+
+• SQLite JDBC[https://github.com/xerial/sqlite-jdbc]
+
+
+
